@@ -1,0 +1,6 @@
+{
+  "name": "GRIEVORA — Smart Campus Complaint Management System",
+  "description": "Smart Campus Complaint Management System with role-based access for Students, Faculty, and Admins. Features end-to-end complaint lifecycle, real-time tracking, analytics, and full Java Spring Boot 3 backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
